@@ -26,15 +26,10 @@ const Header = () => {
               </a>
             </li>
             <li>
-              <a href="fullwidth.html" id="fullwidthnav">
-                Full width
-              </a>
-            </li>
-            <li>
               <a href="contact.html">Contact</a>
             </li>
             <li>
-              <a href="about.html">About</a>
+              <a href="about.html">About Us</a>
             </li>
           </ul>
         </nav>
